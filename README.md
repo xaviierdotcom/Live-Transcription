@@ -32,15 +32,10 @@ Simple desktop application I built for live transcription of speech. Great for m
    source speech_env/bin/activate
    ```
 
-3. **Install everything**:
+3. **Install everything** (this might take a few minutes):
    ```bash
    pip install -r requirements.txt
    ```
-
-4. **Install FFmpeg** (the app needs this):
-   - **Windows**: Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to PATH
-   - **Mac**: `brew install ffmpeg`
-   - **Linux**: `sudo apt install ffmpeg`
 
 ### Run it
 
